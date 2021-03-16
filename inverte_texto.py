@@ -5,6 +5,7 @@
 # Author:  Igor Vinicius Freitas de Souza
 # GitHub: https://github.com/igor1043
 # E-mail: igorviniciusfreitasouza@gmail.com
+
 import pygtk
 pygtk.require('2.0')
 import gtk
