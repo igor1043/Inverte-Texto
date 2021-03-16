@@ -1,3 +1,6 @@
+# Author:  Igor Vinicius Freitas de Souza
+# GitHub: https://github.com/igor1043
+# E-mail: igorviniciusfreitasouza@gmail.com
 <?xml version="1.0" encoding="UTF-8"?>
 <interface>
   <requires lib="gtk+" version="2.24"/>
